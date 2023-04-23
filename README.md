@@ -1,4 +1,4 @@
-1. `git init` - powers your folder to be managed by git, and initializes a new empty repository.it also creates a .git folder that has all the relevant logics to manage versions of your project. 
+1. `git init` - powers your folder to be managed by git, and initializes a new empty repository.it also creates a .git folder that has all the relevant logics to manage versions of your project....
 
 
 2. `working area` -> There can be a bunch of files that are not currently handled by git. It means that changes done or to be done in those files are not managed by git yet. A file which is in working area is considered to be not in staging area. when we do `git status` we see a bunch of untracked files  then these are actually called to be in working area.
