@@ -55,4 +55,6 @@ Note : The name of the remote connection is always used to establish communicati
     - git push
     - git mechanism
 
+23. Merge conflict are a very commom scenario
+
 merge conflicts occur if multiple people try to make changes to the same file and then collaborate.
