@@ -25,3 +25,17 @@
 ans: if you want to move the whole file back to untracked state, then we do git rm, otherwise if we just want the changes to be moved in working area or staging area then we git restore.
 
 13. `git commit -m "<your commit message>"` -> if we want to avoid opening a text editor vim to add commit msg we can use this following command
+
+14. `git diff commit1 commit2` -> gives the difference of all files changed between two commits.
+
+15. `git remote` -> list down all remote connection names.
+
+16. Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each other.
+
+17. `git remote add <name of remote> <link of remote>` : this command helps us to add a new link to the remote repo and gives a name to it.
+
+18. `git remote rm <name of remote>` : This command deletes a remote connection.
+
+19. `git remote rename <oldname> <newname>` : This command renames the remote connection.
+
+Note : The name of the remote connection is always used to establish communication between the repos.
