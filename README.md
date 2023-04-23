@@ -53,3 +53,4 @@ Note : The name of the remote connection is always used to establish communicati
     - git commit
     - git pull
     - git push
+-> git mechanism
